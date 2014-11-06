@@ -1,6 +1,6 @@
 This repository, maintained in collaboration with Margot Williams, contains a simple index of every document published from the Snowden archive.
 
-[EFF](https://www.eff.org/nsa-spying/nsadocs) and [ACLU](https://www.aclu.org/nsa-documents-search) have done the bulk of this work to date. See something that's missing? Please [let us know](mailto:josh.begley@theintercept.com).
+[EFF](https://www.eff.org/nsa-spying/nsadocs) and [ACLU](https://www.aclu.org/nsa-documents-search) have done the bulk of this work to date. [Let us know](mailto:josh.begley@theintercept.com) if you see something that's missing.
 
 Date | Article | Publication
 ---|---------|-------------

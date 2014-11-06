@@ -4,16 +4,17 @@ This repository, maintained in collaboration with Margot Williams, contains a si
 
 Date | Article | Publication
 ---|---------|-------------
-October 10, 2014 | [Computer Network Exploitation Classification Guide](https://firstlook.org/theintercept/2014/10/10/core-secrets/) | `Intercept`
-October 10, 2014 | [ECI Compartments](https://firstlook.org/theintercept/2014/10/10/core-secrets/) | `Intercept`
-October 10, 2014 | [ECI Pawleys Classification Guide](https://firstlook.org/theintercept/2014/10/10/core-secrets/) | `Intercept`
-October 10, 2014 | [ECI WHIPGENIE Classification Guide](https://firstlook.org/theintercept/2014/10/10/core-secrets/) | `Intercept`
-October 10, 2014 | [Exceptionally Controlled Information Listing](https://firstlook.org/theintercept/2014/10/10/core-secrets/) | `Intercept`
-October 10, 2014 | [Sentry Eagle Brief Sheet](https://firstlook.org/theintercept/2014/10/10/core-secrets/) | `Intercept`
-October 10, 2014 | [TAREX Classification Guide](https://firstlook.org/theintercept/2014/10/10/core-secrets/) | `Intercept`
-October 10, 2014 | [CNO Core Secrets Security Structure](https://firstlook.org/theintercept/2014/10/10/core-secrets/) | `Intercept`
-October 10, 2014 | [CNO Core Secrets Slide Slices](https://firstlook.org/theintercept/2014/10/10/core-secrets/) | `Intercept`
-September 15, 2014 | [CNO Core Secrets](https://firstlook.org/theintercept/2014/10/10/core-secrets/) | `Intercept`
+October 10, 2014 | [Core Secrets: NSA Saboteurs in China and Germany](https://firstlook.org/theintercept/2014/10/10/core-secrets/) | `Intercept`
+October 10, 2014 | [Sentry Eagle Brief Sheet](https://firstlook.org/theintercept/?p=6634) | `Intercept`
+October 10, 2014 | [TAREX Classification Guide](https://firstlook.org/theintercept/?p=6635) | `Intercept`
+October 10, 2014 | [Exceptionally Controlled Information Listing](https://firstlook.org/theintercept/?p=6633) | `Intercept`
+October 10, 2014 | [ECI WHIPGENIE Classification Guide](https://firstlook.org/theintercept/?p=6639) | `Intercept`
+October 10, 2014 | [ECI Pawleys Classification Guide](https://firstlook.org/theintercept/?p=6631) | `Intercept`
+October 10, 2014 | [ECI Compartments](https://firstlook.org/theintercept/?p=6630) | `Intercept`
+October 10, 2014 | [CNO Core Secrets Slide Slices](https://firstlook.org/theintercept/?p=6627) | `Intercept`
+October 10, 2014 | [CNO Core Secrets Security Structure](https://firstlook.org/theintercept/?p=6641) | `Intercept`
+October 10, 2014 | [Computer Network Exploitation Classification Guide](https://firstlook.org/theintercept/?p=6661) | `Intercept`
+October 10, 2014 | [CNO Core Secrets](https://firstlook.org/theintercept/?p=6629) | `Intercept`
 September 15, 2014 | [Treasure Map Announces a New Release](https://firstlook.org/theintercept/2014/09/15/new-zealand-gcsb-speargun-mass-surveillance/) | `Intercept`
 September 15, 2014 | [Treasure Map Presentation](https://firstlook.org/theintercept/2014/09/15/new-zealand-gcsb-speargun-mass-surveillance/) | `Intercept`
 September 15, 2014 | [Ferguson Visit Precis](https://firstlook.org/theintercept/2014/09/15/new-zealand-gcsb-speargun-mass-surveillance/) | `Intercept`

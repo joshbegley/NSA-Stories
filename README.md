@@ -123,13 +123,17 @@ June 18, 2014 | [RAMPART-A Overview](http://www.information.dk/databloggen/50127
 June 16, 2014 | [Analytics for targets in Europe](http://www.spiegel.de/fotostrecke/photo-gallery-the-nsa-s-german-presence-fotostrecke-115738-4.html) | `Der Spiegel`
 June 10, 2014 | [Xkeyscore Fingerprints](http://www.spiegel.de/fotostrecke/photo-gallery-the-nsa-s-german-presence-fotostrecke-115738-2.html) | `Der Spiegel`
 June 10, 2014 | [SANDKEY](https://www.eff.org/files/2014/06/10/dea-nsa-sandkey.pdf) | `Cryptome`
-May 19, 2014 | [Identity Intelligence ](http://www.nytimes.com/2014/06/01/us/nsa-collecting-millions-of-faces-from-web-images.html) | `New York Times`
-May 19, 2014 | [Black Budget](https://firstlook.org/theintercept/article/2014/05/19/data-pirates-caribbean-nsa-recording-every-cell-phone-call-bahamas/) | `Intercept`
-May 19, 2014 | [DEA Warfighter](https://firstlook.org/theintercept/article/2014/05/19/data-pirates-caribbean-nsa-recording-every-cell-phone-call-bahamas/) | `Intercept`
-May 19, 2014 | [Mystic](https://firstlook.org/theintercept/article/2014/05/19/data-pirates-caribbean-nsa-recording-every-cell-phone-call-bahamas/) | `Intercept`
-May 19, 2014 | [Somalget](https://firstlook.org/theintercept/article/2014/05/19/data-pirates-caribbean-nsa-recording-every-cell-phone-call-bahamas/) | `Intercept`
-May 19, 2014 | [SSO Dictionary Excerpt](https://firstlook.org/theintercept/article/2014/05/19/data-pirates-caribbean-nsa-recording-every-cell-phone-call-bahamas/) | `Intercept`
-May 13, 2014 | [20140519-Intercept-SSO Mystic Charts](https://firstlook.org/theintercept/article/2014/05/19/data-pirates-caribbean-nsa-recording-every-cell-phone-call-bahamas/) | `Intercept`
+May 19, 2014 | [SOMALGET memo](https://firstlook.org/theintercept/document/2014/05/19/somalget-memo/) | `Intercept`
+May 19, 2014 | [SIDToday: DEA – The "Other" Warfighter](https://firstlook.org/theintercept/document/2014/05/19/sidtoday-dea-warfighter/) | `Intercept`
+May 19, 2014 | [SSO Dictionary Excerpt](https://firstlook.org/theintercept/document/2014/05/19/sso-dictionary-excerpt/) | `Intercept`
+May 19, 2014 | [MYSTIC](https://firstlook.org/theintercept/document/2014/05/19/mystic/) | `Intercept`
+May 19, 2014 | [SSO March 14, 2013](https://firstlook.org/theintercept/document/2014/05/19/sso-march-14-2013/) | `Intercept`
+May 19, 2014 | [SSO April 18, 2013 – What's New](https://firstlook.org/theintercept/document/2014/05/19/sso-april-18-2013-whats-new/) | `Intercept`
+May 19, 2014 | [SSO May 2, 2013](https://firstlook.org/theintercept/document/2014/05/19/sso-may-2-2013/) | `Intercept`
+May 19, 2014 | [SSO May 3, 2013 – MYSTIC](https://firstlook.org/theintercept/document/2014/05/19/sso-may-3-2013-mystic/) | `Intercept`
+May 19, 2014 | [SSO May 3, 2012](https://firstlook.org/theintercept/document/2014/05/19/sso-may-3-2012/) | `Intercept`
+May 19, 2014 | [Black Budget](https://firstlook.org/theintercept/document/2014/05/19/black-budget/) | `Intercept`
+May 19, 2014 | [Data Pirates of the Caribbean: The NSA is Recording Every Cell Phone Call in the Bahamas](https://firstlook.org/theintercept/article/2014/05/19/data-pirates-caribbean-nsa-recording-every-cell-phone-call-bahamas/) | `Intercept`
 April 30, 2014 | [No Place to Hide Documents](http://glenngreenwald.net/#BookDocuments) | `Glenn Greenwald`
 April 30, 2014 | [Prism Olympics](https://firstlook.org/theintercept/article/2014/04/30/gchq-prism-nsa-fisa-unsupervised-access-snowden/) | `Intercept`
 April 30, 2014 | [Ghostmachine](https://firstlook.org/theintercept/article/2014/04/30/gchq-prism-nsa-fisa-unsupervised-access-snowden/) | `Intercept`

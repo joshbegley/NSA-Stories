@@ -320,4 +320,5 @@ June 8, 2013 | [PRISM/Upstream explanation slides ](http://www.theguardian.com/w
 June 8, 2013 | [Boundless Informant Introduction Slides July 13, 2012](http://www.theguardian.com/world/2013/jun/08/nsa-boundless-informant-global-datamining) | `Guardian`
 June 6, 2013 | [Boundless Informant Explanation/FAQ Slides September 6, 2012](http://www.theguardian.com/world/2013/jun/08/nsa-boundless-informant-global-datamining) | `Guardian`
 June 6, 2013 | [PRISM slides ](http://www.washingtonpost.com/wp-srv/special/politics/prism-collection-documents/) | `Washington Post`
-June 6, 2013 | [Verizon 215 Secondary Order April 25, 2013](http://www.theguardian.com/world/2013/jun/06/nsa-phone-records-verizon-court-order) | `Guardian`
+June 6, 2013 | [Verizon Foreign Intelligence Surveillance Court Order](http://www.theguardian.com/world/interactive/2013/jun/06/verizon-telephone-data-court-order) | `Guardian`
+June 6, 2013 | [NSA collecting phone records of millions of Verizon customers daily](http://www.theguardian.com/world/2013/jun/06/nsa-phone-records-verizon-court-order) | `Guardian`

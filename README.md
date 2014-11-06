@@ -13,13 +13,13 @@ October 10, 2014 | [Sentry Eagle Brief Sheet](https://firstlook.org/theintercept
 October 10, 2014 | [TAREX Classification Guide](https://firstlook.org/theintercept/2014/10/10/core-secrets/) | `Intercept`
 October 10, 2014 | [CNO Core Secrets Security Structure](https://firstlook.org/theintercept/2014/10/10/core-secrets/) | `Intercept`
 October 10, 2014 | [CNO Core Secrets Slide Slices](https://firstlook.org/theintercept/2014/10/10/core-secrets/) | `Intercept`
-September 14, 2014 | [CNO Core Secrets](https://firstlook.org/theintercept/2014/10/10/core-secrets/) | `Intercept`
-September 14, 2014 | [Treasure Map Announces a New Release](https://firstlook.org/theintercept/2014/09/15/new-zealand-gcsb-speargun-mass-surveillance/) | `Intercept`
-September 14, 2014 | [Treasure Map Presentation](https://firstlook.org/theintercept/2014/09/15/new-zealand-gcsb-speargun-mass-surveillance/) | `Intercept`
-September 14, 2014 | [Ferguson Visit Precis](https://firstlook.org/theintercept/2014/09/15/new-zealand-gcsb-speargun-mass-surveillance/) | `Intercept`
-September 14, 2014 | [Key Activities In Progress](https://firstlook.org/theintercept/2014/09/15/new-zealand-gcsb-speargun-mass-surveillance/) | `Intercept`
-September 14, 2014 | [Speargun Phase One](http://www.spiegel.de/international/world/snowden-documents-indicate-nsa-has-breached-deutsche-telekom-a-991503.html) | `Der Spiegel`
-September 14, 2014 | [Speargun Underway](http://www.spiegel.de/international/world/snowden-documents-indicate-nsa-has-breached-deutsche-telekom-a-991503.html) | `Der Spiegel`
+September 15, 2014 | [CNO Core Secrets](https://firstlook.org/theintercept/2014/10/10/core-secrets/) | `Intercept`
+September 15, 2014 | [Treasure Map Announces a New Release](https://firstlook.org/theintercept/2014/09/15/new-zealand-gcsb-speargun-mass-surveillance/) | `Intercept`
+September 15, 2014 | [Treasure Map Presentation](https://firstlook.org/theintercept/2014/09/15/new-zealand-gcsb-speargun-mass-surveillance/) | `Intercept`
+September 15, 2014 | [Ferguson Visit Precis](https://firstlook.org/theintercept/2014/09/15/new-zealand-gcsb-speargun-mass-surveillance/) | `Intercept`
+September 15, 2014 | [Key Activities In Progress](https://firstlook.org/theintercept/2014/09/15/new-zealand-gcsb-speargun-mass-surveillance/) | `Intercept`
+September 15, 2014 | [Speargun Phase One](http://www.spiegel.de/international/world/snowden-documents-indicate-nsa-has-breached-deutsche-telekom-a-991503.html) | `Der Spiegel`
+September 15, 2014 | [Speargun Underway](http://www.spiegel.de/international/world/snowden-documents-indicate-nsa-has-breached-deutsche-telekom-a-991503.html) | `Der Spiegel`
 September 5, 2014 | [Satellite Teleport Knowledge](http://www.spiegel.de/international/world/snowden-documents-indicate-nsa-has-breached-deutsche-telekom-a-991503.html) | `Der Spiegel`
 August 31, 2014 | [Quadrennial Intelligence Community Review Final Report](https://firstlook.org/theintercept/2014/09/05/us-governments-plans-use-economic-espionage-benefit-american-corporations/) | `Intercept`
 August 31, 2014 | [NCRs with Foreign Relations Missions Become SUSLAs](http://www.spiegel.de/international/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
@@ -60,64 +60,65 @@ June 30, 2014 | [FISA Judge's Order Authorizing Surveillance of Foreign Entities
 June 30, 2014 | [List of Foreign Entities Authorized for Surveillance](http://www.washingtonpost.com/world/national-security/court-gave-nsa-broad-leeway-in-surveillance-documents-show/2014/06/30/32b872ec-fae4-11e3-8176-f2c941cf35f1_story.html?hpid=z5) | `Washington Post`
 June 30, 2014 | [ODNI Certification Regarding Foreign Entities](http://www.washingtonpost.com/world/national-security/court-gave-nsa-broad-leeway-in-surveillance-documents-show/2014/06/30/32b872ec-fae4-11e3-8176-f2c941cf35f1_story.html?hpid=z5) | `Washington Post`
 June 18, 2014 | [FISA Amendments Act Summary Document](http://www.washingtonpost.com/world/national-security/court-gave-nsa-broad-leeway-in-surveillance-documents-show/2014/06/30/32b872ec-fae4-11e3-8176-f2c941cf35f1_story.html?hpid=z5) | `Washington Post`
-June 18, 2014 | [ESOC- Report on the experiences of one NSA worker](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Report on the changing of the ESOC’s name to European Cryptologic Center (ECC)](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Worldwide locations of the Cryptologic Services Groups](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Internal NSA discussion guidelines in preparation for a meeting with high-ranking BND officials](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Special Source Operations](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Presentation on PRISM and ECC's participation](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Report on the NSA-BND cooperation known as Joint SIGINT Activity (JSA)](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [ESOC- Report on the experiences of one NSA worker](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Zoom of a Boundless Informant document, with project names](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Internal NSA discussion guidelines relating to cooperation with the BND and BfV](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Agenda for the visit of BSI Vice President Andreas Könen to the NSA](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Presentation on the NSA/CIA unit Special Collection Service](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Report on the NSA’s access to TEMPORA](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [European Technical Center- Report on the experiences of one NSA worker](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Internal NSA presentation on the BND's organization](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Boundless Informant overview (global)](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Report on a WHARPDRIVE incident in an SSO presentation](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Report on the one-year anniversary of the NSA liaison unit SUSLAG in Bad Aibling](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Excerpt on the sharing of XKeyscore with German intelligence agency BfV](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Logo of NSA-BND cooperation](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Boundless Informant statistics for so-called Third Parties](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Report on an NSA SIGDEV training course for allied countries ](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Report on the surveillance of African countries by JSA](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Explanation of Nymrod](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Nostalgic recollections from NSA workers formerly stationed in Bad Aibling](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Boundless Informant statistics on data from 'Foreign Partners'](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Report on an NSA visit to BND site and on data transfer from the BND to the NSA](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Report on the technical expansion of the European Technical Center in Wiesbaden](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [FAQs on the Boundless Informant program](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [NSA presentation on Nymrod](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Boundless Informant statistics on Germany](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Report on an unexploded ordnance alarm at European Technical Centern](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Report on the work of NSA/CSS Europe](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Final agenda of a meeting between high-ranking NSA and BND officials](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [NSA/CSS Europe- Report on the experiences of one NSA worker](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
+June 18, 2014 | [Nostalgic recollections out of the NSA intranet from NSA workers formerly stationed in Bad Aibling](http://www.spiegel.de/media/media-34044.pdf) | `Der Spiegel`
+June 18, 2014 | [Document excerpt on the sharing of the NSA spy tool XKeyscore with the Federal Office for the Protection of the Constitution (BfV), Germany’s domestic intelligence agency](http://www.spiegel.de/media/media-34045.pdf) | `Der Spiegel`
+June 18, 2014 | [Secret document on the cooperation between the NSA, BND and BfV in the fight against terrorism](http://www.spiegel.de/media/media-34046.pdf) | `Der Spiegel`
+June 18, 2014 | [Preliminary agenda of a meeting between high-ranking NSA and BND officials](http://www.spiegel.de/media/media-34116.pdf) | `Der Spiegel`
+June 18, 2014 | [Briefing on the visit to the NSA of a high-ranking BND official](http://www.spiegel.de/media/media-34117.pdf) | `Der Spiegel`
+June 18, 2014 | [Final agenda of a meeting between high-ranking NSA and BND officials](http://www.spiegel.de/media/media-34118.pdf) | `Der Spiegel`
+June 18, 2014 | [Internal NSA presentation on the BND's organization](http://www.spiegel.de/media/media-34050.pdf) | `Der Spiegel`
+June 18, 2014 | [Internal NSA discussion guidelines relating to cooperation with the BND and BfV](http://www.spiegel.de/media/media-34051.pdf) | `Der Spiegel`
+June 18, 2014 | [Internal NSA discussion guidelines in preparation for a meeting with high-ranking BND officials](http://www.spiegel.de/media/media-34119.pdf) | `Der Spiegel`
+June 18, 2014 | [Comprehensive internal summary of the history and current state of cooperation between the NSA and BND](http://www.spiegel.de/media/media-34053.pdf) | `Der Spiegel`
+June 18, 2014 | [FAQs on the Boundless Informant program](http://www.spiegel.de/media/media-34054.pdf) | `Der Spiegel`
+June 18, 2014 | [Boundless Informant statistics on Germany](http://www.spiegel.de/media/media-34055.pdf) | `Der Spiegel`
+June 18, 2014 | [Boundless Informant overview (global)](http://www.spiegel.de/media/media-34058.pdf) | `Der Spiegel`
+June 18, 2014 | [Boundless Informant statistics for so-called Third Parties, which includes Germany](http://www.spiegel.de/media/media-34059.pdf) | `Der Spiegel`
+June 18, 2014 | [Boundless Informant statistics on data from "Foreign Partners"](http://www.spiegel.de/media/media-34060.pdf) | `Der Spiegel`
+June 18, 2014 | [Overview of the use of Boundless Informant (world map)](http://www.spiegel.de/media/media-34061.pdf) | `Der Spiegel`
+June 18, 2014 | [World map from the Boundless Informant program](http://www.spiegel.de/media/media-34062.pdf) | `Der Spiegel`
+June 18, 2014 | [Zoom of a Boundless Informant document, with project names](http://www.spiegel.de/media/media-34064.pdf) | `Der Spiegel`
+June 18, 2014 | [Agenda for the visit of BSI Vice President Andreas Könen to the NSA](http://www.spiegel.de/media/media-34067.pdf) | `Der Spiegel`
+June 18, 2014 | [Report on the beginnings of the European Security Center (ESC) in the Dagger Complex](http://www.spiegel.de/media/media-34070.pdf) | `Der Spiegel`
+June 18, 2014 | [Report on the changing of the ESC’s name to European Security Operations Center (ESOC)](http://www.spiegel.de/media/media-34072.pdf) | `Der Spiegel`
+June 18, 2014 | [ESOC: Report on the experiences of one NSA worker](http://www.spiegel.de/media/media-34074.pdf) | `Der Spiegel`
+June 18, 2014 | [Report on the changing of the ESOC’s name to European Cryptologic Center (ECC) including details on missions launched from there](http://www.spiegel.de/media/media-34076.pdf) | `Der Spiegel`
+June 18, 2014 | [Report on an XKeyscore training session at the ECC / Dagger Complex](http://www.spiegel.de/media/media-34077.pdf) | `Der Spiegel`
+June 18, 2014 | [Presentation on the spying program PRISM and ECC's participation](http://www.spiegel.de/media/media-34078.pdf) | `Der Spiegel`
+June 18, 2014 | [NSA/CSS presentation on technical surveillance in Europe and Africa](http://www.spiegel.de/media/media-34079.pdf) | `Der Spiegel`
+June 18, 2014 | [Report on an unexploded ordnance alarm at the European Technical Center in the Mainz-Kastel neighborhood of Wiesbaden](http://www.spiegel.de/media/media-34081.pdf) | `Der Spiegel`
+June 18, 2014 | [Report on an NSA SIGDEV training course for allied countries](http://www.spiegel.de/media/media-34082.pdf) | `Der Spiegel`
+June 18, 2014 | [Report on the technical expansion of the European Technical Center in the Mainz-Kastel neighborhood of Wiesbaden](http://www.spiegel.de/media/media-34083.pdf) | `Der Spiegel`
+June 18, 2014 | [Report on the NSA-BND cooperation known as Joint SIGINT Activity (JSA)](http://www.spiegel.de/media/media-34084.pdf) | `Der Spiegel`
+June 18, 2014 | [Report on the surveillance of African countries by JSA](http://www.spiegel.de/media/media-34085.pdf) | `Der Spiegel`
+June 18, 2014 | [Restrictions on the technical surveillance performed by JSA](http://www.spiegel.de/media/media-34086.pdf) | `Der Spiegel`
+June 18, 2014 | [Report on data exchange between the NSA and BND within the JSA framework](http://www.spiegel.de/media/media-34087.pdf) | `Der Spiegel`
+June 18, 2014 | [Merkel in the database: Presentation from the Center for Content Extraction](http://www.spiegel.de/media/media-34089.pdf) | `Der Spiegel`
+June 18, 2014 | [Report on the NSA’s access to TEMPORA](http://www.spiegel.de/media/media-34090.pdf) | `Der Spiegel`
+June 18, 2014 | [Report on the work of NSA/CSS Europe, including the capture or killing of 40 terror suspects](http://www.spiegel.de/media/media-34091.pdf) | `Der Spiegel`
+June 18, 2014 | [Guidelines for the classification of NSA SIGINT details (1945-1967)](http://www.spiegel.de/media/media-34093.pdf) | `Der Spiegel`
+June 18, 2014 | [Slide: Worldwide locations of the Cryptologic Services Groups](http://www.spiegel.de/media/media-34094.pdf) | `Der Spiegel`
+June 18, 2014 | [Slide: Worldwide locations of NSA/CSS satellite surveillance](http://www.spiegel.de/media/media-34095.pdf) | `Der Spiegel`
+June 18, 2014 | [US sites with NSA personnel in Germany](http://www.spiegel.de/media/media-34096.pdf) | `Der Spiegel`
+June 18, 2014 | [Logo of NSA-BND cooperation](http://www.spiegel.de/media/media-34088.pdf) | `Der Spiegel`
+June 18, 2014 | [Explanation of Nymrod, a system for searching for people and places in databases and documents](http://www.spiegel.de/media/media-34097.pdf) | `Der Spiegel`
+June 18, 2014 | [NSA presentation on the work of Nymrod](http://www.spiegel.de/media/media-34098.pdf) | `Der Spiegel`
+June 18, 2014 | [Report on an NSA visit to the BND site in Schöningen and on data transfer from the BND to the NSA](http://www.spiegel.de/media/media-34099.pdf) | `Der Spiegel`
+June 18, 2014 | [Presentation on the NSA/CIA unit Special Collection Service (SCS), active in US embassies around the world](http://www.spiegel.de/media/media-34100.pdf) | `Der Spiegel`
+June 18, 2014 | [Report on the one-year anniversary of the NSA liaison unit SUSLAG at the new site in the Mangfall Kaserne in Bad Aibling](http://www.spiegel.de/media/media-34101.pdf) | `Der Spiegel`
+June 18, 2014 | [Guidelines for the classification of SUSLAG details and the NSA-BND cooperation](http://www.spiegel.de/media/media-34102.pdf) | `Der Spiegel`
+June 18, 2014 | [GCHQ report on the technical abilities of the powerful spying program TEMPORA, which allows for a "full take"](http://www.spiegel.de/media/media-34103.pdf) | `Der Spiegel`
+June 18, 2014 | [Report on a WHARPDRIVE incident in an SSO presentation](http://www.spiegel.de/media/media-34104.pdf) | `Der Spiegel`
+June 18, 2014 | [Details on XKeyscore from an internal GCHQ website](http://www.spiegel.de/media/media-34105.pdf) | `Der Spiegel`
+June 18, 2014 | [Boundless Informant statistics on Great Britain](http://www.spiegel.de/media/media-34056.pdf) | `Der Spiegel`
+June 18, 2014 | [European Technical Center: Report on the experiences of one NSA](http://www.spiegel.de/media/media-34080.pdf) | `Der Spiegel`
+June 18, 2014 | [NSA/CSS Europe: Report on the experiences of one NSA worker](http://www.spiegel.de/media/media-34092.pdf) | `Der Spiegel`
+June 18, 2014 | [The NSA in Germany: Snowden's Documents Available for Download](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
 June 18, 2014 | [Boundless Informant statistics on the UK](http://www.information.dk/databloggen/501278) | `Dagbladet`
-June 18, 2014 | [Report on an XKeyscore training session at the ECC / Dagger Complex](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Restrictions on the technical surveillance performed by JSA](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [GCHQ report on the technical abilities of TEMPORA](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [NSA/CSS presentation on technical surveillance in Europe and Africa](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Briefing on the visit to the NSA of a high-ranking BND official](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
 June 18, 2014 | [Report on data exchange between the NSA and BND within the JSA framework](http://www.information.dk/databloggen/501278) | `Dagbladet`
-June 18, 2014 | [US sites with NSA personnel in Germany](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Guidelines for the classification of NSA SIGINT details (1945-1967)](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
 June 18, 2014 | [Black Budget](http://www.information.dk/databloggen/501278) | `Dagbladet`
-June 18, 2014 | [Overview of the use of Boundless Informant (world map)](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Cooperation between the NSA, BND and BfV](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Report on the beginnings of the European Security Center (ESC) in the Dagger Complex](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [World map from the Boundless Informant program](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Guidelines for the classification of SUSLAG details and the NSA-BND cooperation](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
 June 18, 2014 | [Keith Alexander Talking Points](http://www.information.dk/databloggen/501278) | `Dagbladet`
-June 18, 2014 | [Preliminary agenda of a meeting between NSA and BND officials](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Details on XKeyscore from an internal GCHQ website](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Report on the changing of the ESC’s name to European Security Operations Center (ESOC)](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [Worldwide locations of NSA/CSS satellite surveillance](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
-June 18, 2014 | [History and current state of cooperation between the NSA and BND](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
 June 18, 2014 | [RAMPART-A Overview](http://www.information.dk/databloggen/501278) | `Dagbladet`
-June 16, 2014 | [Presentation from the Center for Content Extraction](http://www.spiegel.de/international/the-germany-file-of-edward-snowden-documents-available-for-download-a-975917.html) | `Der Spiegel`
 June 16, 2014 | [Analytics for targets in Europe](http://www.spiegel.de/fotostrecke/photo-gallery-the-nsa-s-german-presence-fotostrecke-115738-4.html) | `Der Spiegel`
 June 10, 2014 | [Xkeyscore Fingerprints](http://www.spiegel.de/fotostrecke/photo-gallery-the-nsa-s-german-presence-fotostrecke-115738-2.html) | `Der Spiegel`
 June 10, 2014 | [SANDKEY](https://www.eff.org/files/2014/06/10/dea-nsa-sandkey.pdf) | `Cryptome`

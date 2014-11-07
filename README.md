@@ -37,15 +37,16 @@ August 31, 2014 | [MHS/GCHQ Projects - Turkey Energy Company Development (GCHQ)]
 August 31, 2014 | [Kurdistan Regional Government (GCHQ)](http://www.spiegel.de/media/media-34662.pdf) | `Der Spiegel`
 August 31, 2014 | [SINIO Seminar: Turkey and the Kurds (NSA)](http://www.spiegel.de/media/media-34649.pdf) | `Der Spiegel`
 August 31, 2014 | [A Two-Faced Friendship: Turkey Is 'Partner and Target' for the NSA](http://www.spiegel.de/international/world/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
-August 25, 2014 | [CRISSCROSS/PROTON Point Paper](https://firstlook.org/theintercept/article/2014/08/25/icreach-nsa-cia-secret-google-crisscross-proton) | `Intercept`
-August 25, 2014 | [DNI Decision Memorandum on ICREACH](https://firstlook.org/theintercept/article/2014/08/25/icreach-nsa-cia-secret-google-crisscross-proton) | `Intercept`
-August 25, 2014 | [ICREACH Black Budget Extract](https://firstlook.org/theintercept/article/2014/08/25/icreach-nsa-cia-secret-google-crisscross-proton) | `Intercept`
-August 25, 2014 | [ICREACH Wholesale Sharing](https://firstlook.org/theintercept/article/2014/08/25/icreach-nsa-cia-secret-google-crisscross-proton) | `Intercept`
-August 25, 2014 | [Metadata Policy Conference](https://firstlook.org/theintercept/article/2014/08/25/icreach-nsa-cia-secret-google-crisscross-proton) | `Intercept`
-August 25, 2014 | [Metadata Sharing Memorandum](https://firstlook.org/theintercept/article/2014/08/25/icreach-nsa-cia-secret-google-crisscross-proton) | `Intercept`
-August 25, 2014 | [ICREACH: Sharing SIGINT Comms Metadata with the Intel Community Memo](https://firstlook.org/theintercept/article/2014/08/25/icreach-nsa-cia-secret-google-crisscross-proton) | `Intercept`
-August 25, 2014 | [Sharing Communications Metadata Across the U.S. Intelligence Community - ICREACH](https://firstlook.org/theintercept/article/2014/08/25/icreach-nsa-cia-secret-google-crisscross-proton) | `Intercept`
-August 15, 2014 | [CIA Colleagues Enthusiastically Welcome NSA Training](https://firstlook.org/theintercept/article/2014/08/25/icreach-nsa-cia-secret-google-crisscross-proton) | `Intercept`
+August 25, 2014 | [CIA Colleagues Enthusiastically Welcome NSA Training](https://firstlook.org/theintercept/document/2014/08/25/cia-colleagues-enthusiastically-welcome-nsa-training) | `Intercept`
+August 25, 2014 | [Sharing Communications Metadata Across the U.S. Intelligence Community](https://firstlook.org/theintercept/document/2014/08/25/sharing-communications-metadata-across-u-s-intelligence-community) | `Intercept`
+August 25, 2014 | [CRISSCROSS/PROTON Point Paper](https://firstlook.org/theintercept/document/2014/08/25/crisscross-proton-point-paper) | `Intercept`
+August 25, 2014 | [Decision Memorandum for the DNI on ICREACH](https://firstlook.org/theintercept/document/2014/08/25/decision-memorandum-dni-icreach) | `Intercept`
+August 25, 2014 | [Metadata Sharing Memorandum](https://firstlook.org/theintercept/document/2014/08/25/metadata-sharing-memorandum-2005) | `Intercept`
+August 25, 2014 | [Sharing SIGINT metadata on ICREACH](https://firstlook.org/theintercept/document/2014/08/25/sharing-sigint-metadata-icreach) | `Intercept`
+August 25, 2014 | [Metadata Policy Conference](https://firstlook.org/theintercept/document/2014/08/25/metadata-policy-conference) | `Intercept`
+August 25, 2014 | [ICREACH Wholesale Sharing](https://firstlook.org/theintercept/document/2014/08/25/icreach-wholesale-sharing-2007) | `Intercept`
+August 25, 2014 | [Black Budget Extracts](https://firstlook.org/theintercept/document/2014/08/25/black-budget-extracts) | `Intercept`
+August 25, 2014 | [The Surveillance Engine: How the NSA Built Its Own Secret Google](https://firstlook.org/theintercept/article/2014/08/25/icreach-nsa-cia-secret-google-crisscross-proton) | `Intercept`
 August 12, 2014 | [HACIENDA Program](http://www.heise.de/ct/artikel/NSA-GCHQ-The-HACIENDA-Program-for-Internet-Colonization-2292681.html) | `Heise`
 August 5, 2014 | [GCHQ Covert Mobile Phones Policy](https://firstlook.org/theintercept/2014/08/12/nprs-dina-temple-raston-passed-cia-funded-nsa-contractor-independent-fear-monger-snowden-reporting/) | `Intercept`
 August 3, 2014 | [Directorate of Terrorist Identities (DTI) Strategic Accomplishments 2013](https://firstlook.org/theintercept/article/2014/08/05/watch-commander/) | `Intercept`

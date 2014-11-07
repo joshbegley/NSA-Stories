@@ -2,7 +2,7 @@ This repository, maintained in collaboration with Margot Williams, contains a si
 
 [EFF](https://www.eff.org/nsa-spying/nsadocs) and [ACLU](https://www.aclu.org/nsa-documents-search) have done the bulk of this work to date. [Let us know](mailto:josh.begley@theintercept.com) if you notice something that's missing.
 
-Date | Article | Publication
+Date | Article/Document | Publication
 ---|---------|-------------
 October 10, 2014 | [Core Secrets: NSA Saboteurs in China and Germany](https://firstlook.org/theintercept/2014/10/10/core-secrets/) | `Intercept`
 October 10, 2014 | [Sentry Eagle Brief Sheet](https://firstlook.org/theintercept/document/2014/10/10/national-initiative-protection-program-sentry-eagle/) | `Intercept`

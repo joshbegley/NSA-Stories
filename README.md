@@ -22,21 +22,21 @@ September 15, 2014 | [Key Activities In Progress](https://firstlook.org/theinter
 September 15, 2014 | [Speargun Phase One](http://www.spiegel.de/international/world/snowden-documents-indicate-nsa-has-breached-deutsche-telekom-a-991503.html) | `Der Spiegel`
 September 15, 2014 | [Speargun Underway](http://www.spiegel.de/international/world/snowden-documents-indicate-nsa-has-breached-deutsche-telekom-a-991503.html) | `Der Spiegel`
 September 5, 2014 | [Satellite Teleport Knowledge](http://www.spiegel.de/international/world/snowden-documents-indicate-nsa-has-breached-deutsche-telekom-a-991503.html) | `Der Spiegel`
-August 31, 2014 | [Quadrennial Intelligence Community Review Final Report](https://firstlook.org/theintercept/2014/09/05/us-governments-plans-use-economic-espionage-benefit-american-corporations/) | `Intercept`
-August 31, 2014 | [NCRs with Foreign Relations Missions Become SUSLAs](http://www.spiegel.de/international/world/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
-August 31, 2014 | [NSA Intelligence Relationship with Turkey](http://www.spiegel.de/international/world/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
-August 31, 2014 | [NSAs Oldest Third Party Partnership](http://www.spiegel.de/international/world/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
-August 31, 2014 | [SINIO Seminar Tough Times for Turkey](http://www.spiegel.de/international/world/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
-August 31, 2014 | [SINIO Seminar Turkey and the Kurds](http://www.spiegel.de/international/world/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
-August 31, 2014 | [SINIO Seminar Turkish Elections](http://www.spiegel.de/international/world/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
-August 31, 2014 | [Turkey and the PKK](http://www.spiegel.de/international/world/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
-August 31, 2014 | [Collaboration in Overdrive](http://www.spiegel.de/international/world/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
-August 31, 2014 | [Turkey at the G20 Pre-Meeting](http://www.spiegel.de/international/world/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
-August 31, 2014 | [Iraq UK Load Sharing Carriers](http://www.spiegel.de/international/world/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
-August 31, 2014 | [Turkish Signal Intelligence Chief Agenda](http://www.spiegel.de/international/world/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
-August 31, 2014 | [Jordan Belgium](http://www.spiegel.de/international/world/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
-August 31, 2014 | [Turkey Energy Company Development](http://www.spiegel.de/international/world/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
-August 25, 2014 | [Kurdistan Regional Government](http://www.spiegel.de/international/world/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
+August 31, 2014 | [Collaboration in Overdrive: A CNE Success (NSA)](http://www.spiegel.de/media/media-34650.pdf) | `Der Spiegel`
+August 31, 2014 | [Turkey and the PKK (NSA)](http://www.spiegel.de/media/media-34651.pdf) | `Der Spiegel`
+August 31, 2014 | [NCRs with Foreign Relations Missions Become 'SUSLAs' (NSA)](http://www.spiegel.de/media/media-34652.pdf) | `Der Spiegel`
+August 31, 2014 | [SINIO Seminar: Turkish Presidential and Parliamentary Elections (NSA)](http://www.spiegel.de/media/media-34653.pdf) | `Der Spiegel`
+August 31, 2014 | [NSA Intelligence Relationship with Turkey - Turkish National Intelligence Organization (MIT) and the Turkish Intelligence Directorate (SIB) (NSA)](http://www.spiegel.de/media/media-34654.pdf) | `Der Spiegel`
+August 31, 2014 | [NSAs Oldest Third Party Partnership (NSA)](http://www.spiegel.de/media/media-34655.pdf) | `Der Spiegel`
+August 31, 2014 | [Agenda 14-15 May 2013: Brigadier general XXXXXXX YYYY - Turkish Signal Intelligence Chief (NSA)](http://www.spiegel.de/media/media-34656.pdf) | `Der Spiegel`
+August 31, 2014 | [SINIO Series of Strategic Intelligence Issue Seminars Begins with Tough Times for Turkey (NSA)](http://www.spiegel.de/media/media-34657.pdf) | `Der Spiegel`
+August 31, 2014 | [JORDAN-BELGIUM (GCHQ)](http://www.spiegel.de/media/media-34658.pdf) | `Der Spiegel`
+August 31, 2014 | [Load Sharing Carriers R.O.W. (via UK) in IRAQ plus RLEs (GCHQ)](http://www.spiegel.de/media/media-34659.pdf) | `Der Spiegel`
+August 31, 2014 | [Turkey at the G20 Pre-Meeting in London September 2-5 2009 (GCHQ)](http://www.spiegel.de/media/media-34660.pdf) | `Der Spiegel`
+August 31, 2014 | [MHS/GCHQ Projects - Turkey Energy Company Development (GCHQ)](http://www.spiegel.de/media/media-34661.pdf) | `Der Spiegel`
+August 31, 2014 | [Kurdistan Regional Government (GCHQ)](http://www.spiegel.de/media/media-34662.pdf) | `Der Spiegel`
+August 31, 2014 | [SINIO Seminar: Turkey and the Kurds (NSA)](http://www.spiegel.de/media/media-34649.pdf) | `Der Spiegel`
+August 31, 2014 | [A Two-Faced Friendship: Turkey Is 'Partner and Target' for the NSA](http://www.spiegel.de/international/world/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
 August 25, 2014 | [CRISSCROSS/PROTON Point Paper](https://firstlook.org/theintercept/article/2014/08/25/icreach-nsa-cia-secret-google-crisscross-proton) | `Intercept`
 August 25, 2014 | [DNI Decision Memorandum on ICREACH](https://firstlook.org/theintercept/article/2014/08/25/icreach-nsa-cia-secret-google-crisscross-proton) | `Intercept`
 August 25, 2014 | [ICREACH Black Budget Extract](https://firstlook.org/theintercept/article/2014/08/25/icreach-nsa-cia-secret-google-crisscross-proton) | `Intercept`

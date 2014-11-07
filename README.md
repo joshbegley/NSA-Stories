@@ -170,10 +170,10 @@ March 11, 2014 | [Classification Guide for FISA, the Protect America Act and the
 March 11, 2014 | [Ashcroft Memo on Intelligence Sharing Procedures](http://www.nytimes.com/2014/03/12/us/how-a-courts-secret-evolution-extended-spies-reach.html?_r=0) | `NY Times`
 March 11, 2014 | [NSA Memo Expands Access to FISA Information](http://www.nytimes.com/2014/03/12/us/how-a-courts-secret-evolution-extended-spies-reach.html?_r=0) | `NY Times`
 March 11, 2014 | [Classification Guide for Stellarwind Program](http://www.nytimes.com/2014/03/12/us/how-a-courts-secret-evolution-extended-spies-reach.html?_r=0) | `NY Times`
-March 7, 2014 | [NSA Ask Zelda_Guilty Until Proven Innocent](https://firstlook.org/theintercept/article/2014/03/07/nsa-advice-columnist-seriously/) | `Intercept`
-March 7, 2014 | [NSA Ask Zelda_An Interview with Zelda](https://firstlook.org/theintercept/article/2014/03/07/nsa-advice-columnist-seriously/) | `Intercept`
-March 7, 2014 | [NSA Ask Zelda_Is Bain de Soleil a Bane on the NSA](https://firstlook.org/theintercept/article/2014/03/07/nsa-advice-columnist-seriously/) | `Intercept`
-March 7, 2014 | [NSA Ask Zelda_Watching Every Word in Snitch City](https://firstlook.org/theintercept/article/2014/03/07/nsa-advice-columnist-seriously/) | `Intercept`
+March 7, 2014 | [NSA Ask Zelda - Guilty Until Proven Innocent](https://firstlook.org/theintercept/article/2014/03/07/nsa-advice-columnist-seriously/) | `Intercept`
+March 7, 2014 | [NSA Ask Zelda - An Interview with Zelda](https://firstlook.org/theintercept/article/2014/03/07/nsa-advice-columnist-seriously/) | `Intercept`
+March 7, 2014 | [NSA Ask Zelda - Is Bain de Soleil a Bane on the NSA](https://firstlook.org/theintercept/article/2014/03/07/nsa-advice-columnist-seriously/) | `Intercept`
+March 7, 2014 | [NSA Ask Zelda - Watching Every Word in Snitch City](https://firstlook.org/theintercept/article/2014/03/07/nsa-advice-columnist-seriously/) | `Intercept`
 March 5, 2014 | [Dutch Shares Collected Anti-Piracy Information with NSA](http://www.nrc.nl/nieuws/2014/03/05/the-secret-role-of-the-dutch-in-the-american-war-on-terror/) | `NRC Handelsblad`
 March 3, 2014 | [DOJ Report on Pen Register FISA Orders](http://epic.org/2014/03/in-foia-lawsuit-epic-obtains-s.html) | `EPIC`
 February 27, 2014 | [GCHQ Optic Nerve](http://www.theguardian.com/world/2014/feb/27/gchq-nsa-webcam-images-internet-yahoo) | `Guardian`

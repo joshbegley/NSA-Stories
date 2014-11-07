@@ -5,38 +5,38 @@ This repository, maintained in collaboration with Margot Williams, contains a si
 Date | Article | Publication
 ---|---------|-------------
 October 10, 2014 | [Core Secrets: NSA Saboteurs in China and Germany](https://firstlook.org/theintercept/2014/10/10/core-secrets/) | `Intercept`
-October 10, 2014 | [Sentry Eagle Brief Sheet](https://firstlook.org/theintercept/?p=6634) | `Intercept`
-October 10, 2014 | [TAREX Classification Guide](https://firstlook.org/theintercept/?p=6635) | `Intercept`
-October 10, 2014 | [Exceptionally Controlled Information Listing](https://firstlook.org/theintercept/?p=6633) | `Intercept`
-October 10, 2014 | [ECI WHIPGENIE Classification Guide](https://firstlook.org/theintercept/?p=6639) | `Intercept`
-October 10, 2014 | [ECI Pawleys Classification Guide](https://firstlook.org/theintercept/?p=6631) | `Intercept`
-October 10, 2014 | [ECI Compartments](https://firstlook.org/theintercept/?p=6630) | `Intercept`
-October 10, 2014 | [CNO Core Secrets Slide Slices](https://firstlook.org/theintercept/?p=6627) | `Intercept`
-October 10, 2014 | [CNO Core Secrets Security Structure](https://firstlook.org/theintercept/?p=6641) | `Intercept`
-October 10, 2014 | [Computer Network Exploitation Classification Guide](https://firstlook.org/theintercept/?p=6661) | `Intercept`
-October 10, 2014 | [CNO Core Secrets](https://firstlook.org/theintercept/?p=6629) | `Intercept`
+October 10, 2014 | [Sentry Eagle Brief Sheet](https://firstlook.org/theintercept/document/2014/10/10/national-initiative-protection-program-sentry-eagle/) | `Intercept`
+October 10, 2014 | [TAREX Classification Guide](https://firstlook.org/theintercept/document/2014/10/10/target-exploitation-classification-guide/) | `Intercept`
+October 10, 2014 | [Exceptionally Controlled Information Listing](https://firstlook.org/theintercept/document/2014/10/10/nsa-exceptionally-controlled-information-listing-12-september-2003/) | `Intercept`
+October 10, 2014 | [ECI WHIPGENIE Classification Guide](https://firstlook.org/theintercept/document/2014/10/10/eci-whipgenie-classification-guide/) | `Intercept`
+October 10, 2014 | [ECI Pawleys Classification Guide](https://firstlook.org/theintercept/document/2014/10/10/nsa-classification-guide-eci-pawleys/) | `Intercept`
+October 10, 2014 | [ECI Compartments](https://firstlook.org/theintercept/document/2014/10/10/eci-control-authorities/) | `Intercept`
+October 10, 2014 | [CNO Core Secrets Slide Slices](https://firstlook.org/theintercept/document/2014/10/10/cno-core-secrets/) | `Intercept`
+October 10, 2014 | [CNO Core Secrets Security Structure](https://firstlook.org/theintercept/document/2014/10/10/cno-core-secrets-security-structure/) | `Intercept`
+October 10, 2014 | [Computer Network Exploitation Classification Guide](https://firstlook.org/theintercept/document/2014/10/10/computer-network-exploitation-classification-guide/) | `Intercept`
+October 10, 2014 | [CNO Core Secrets](https://firstlook.org/theintercept/document/2014/10/10/cno-core-secrets-2/) | `Intercept`
 September 15, 2014 | [Treasure Map Announces a New Release](https://firstlook.org/theintercept/2014/09/15/new-zealand-gcsb-speargun-mass-surveillance/) | `Intercept`
 September 15, 2014 | [Treasure Map Presentation](https://firstlook.org/theintercept/2014/09/15/new-zealand-gcsb-speargun-mass-surveillance/) | `Intercept`
-September 15, 2014 | [Ferguson Visit Precis](https://firstlook.org/theintercept/2014/09/15/new-zealand-gcsb-speargun-mass-surveillance/) | `Intercept`
+September 15, 2014 | [New Zealand Visit Precis](https://firstlook.org/theintercept/2014/09/15/new-zealand-gcsb-speargun-mass-surveillance/) | `Intercept`
 September 15, 2014 | [Key Activities In Progress](https://firstlook.org/theintercept/2014/09/15/new-zealand-gcsb-speargun-mass-surveillance/) | `Intercept`
 September 15, 2014 | [Speargun Phase One](http://www.spiegel.de/international/world/snowden-documents-indicate-nsa-has-breached-deutsche-telekom-a-991503.html) | `Der Spiegel`
 September 15, 2014 | [Speargun Underway](http://www.spiegel.de/international/world/snowden-documents-indicate-nsa-has-breached-deutsche-telekom-a-991503.html) | `Der Spiegel`
 September 5, 2014 | [Satellite Teleport Knowledge](http://www.spiegel.de/international/world/snowden-documents-indicate-nsa-has-breached-deutsche-telekom-a-991503.html) | `Der Spiegel`
 August 31, 2014 | [Quadrennial Intelligence Community Review Final Report](https://firstlook.org/theintercept/2014/09/05/us-governments-plans-use-economic-espionage-benefit-american-corporations/) | `Intercept`
-August 31, 2014 | [NCRs with Foreign Relations Missions Become SUSLAs](http://www.spiegel.de/international/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
-August 31, 2014 | [NSA Intelligence Relationship with Turkey](http://www.spiegel.de/international/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
-August 31, 2014 | [NSAs Oldest Third Party Partnership](http://www.spiegel.de/international/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
-August 31, 2014 | [SINIO Seminar Tough Times for Turkey](http://www.spiegel.de/international/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
-August 31, 2014 | [SINIO Seminar Turkey and the Kurds](http://www.spiegel.de/international/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
-August 31, 2014 | [SINIO Seminar Turkish Elections](http://www.spiegel.de/international/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
-August 31, 2014 | [Turkey and the PKK](http://www.spiegel.de/international/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
-August 31, 2014 | [Collaboration in Overdrive](http://www.spiegel.de/international/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
-August 31, 2014 | [Turkey at the G20 Pre-Meeting](http://www.spiegel.de/international/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
-August 31, 2014 | [Iraq UK Load Sharing Carriers](http://www.spiegel.de/international/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
-August 31, 2014 | [Turkish Signal Intelligence Chief Agenda](http://www.spiegel.de/international/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
-August 31, 2014 | [Jordan Belgium](http://www.spiegel.de/international/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
-August 31, 2014 | [Turkey Energy Company Development](http://www.spiegel.de/international/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
-August 25, 2014 | [Kurdistan Regional Government](http://www.spiegel.de/international/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
+August 31, 2014 | [NCRs with Foreign Relations Missions Become SUSLAs](http://www.spiegel.de/international/world/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
+August 31, 2014 | [NSA Intelligence Relationship with Turkey](http://www.spiegel.de/international/world/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
+August 31, 2014 | [NSAs Oldest Third Party Partnership](http://www.spiegel.de/international/world/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
+August 31, 2014 | [SINIO Seminar Tough Times for Turkey](http://www.spiegel.de/international/world/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
+August 31, 2014 | [SINIO Seminar Turkey and the Kurds](http://www.spiegel.de/international/world/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
+August 31, 2014 | [SINIO Seminar Turkish Elections](http://www.spiegel.de/international/world/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
+August 31, 2014 | [Turkey and the PKK](http://www.spiegel.de/international/world/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
+August 31, 2014 | [Collaboration in Overdrive](http://www.spiegel.de/international/world/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
+August 31, 2014 | [Turkey at the G20 Pre-Meeting](http://www.spiegel.de/international/world/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
+August 31, 2014 | [Iraq UK Load Sharing Carriers](http://www.spiegel.de/international/world/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
+August 31, 2014 | [Turkish Signal Intelligence Chief Agenda](http://www.spiegel.de/international/world/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
+August 31, 2014 | [Jordan Belgium](http://www.spiegel.de/international/world/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
+August 31, 2014 | [Turkey Energy Company Development](http://www.spiegel.de/international/world/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
+August 25, 2014 | [Kurdistan Regional Government](http://www.spiegel.de/international/world/documents-show-nsa-and-gchq-spied-on-partner-turkey-a-989011.html) | `Der Spiegel`
 August 25, 2014 | [CRISSCROSS/PROTON Point Paper](https://firstlook.org/theintercept/article/2014/08/25/icreach-nsa-cia-secret-google-crisscross-proton) | `Intercept`
 August 25, 2014 | [DNI Decision Memorandum on ICREACH](https://firstlook.org/theintercept/article/2014/08/25/icreach-nsa-cia-secret-google-crisscross-proton) | `Intercept`
 August 25, 2014 | [ICREACH Black Budget Extract](https://firstlook.org/theintercept/article/2014/08/25/icreach-nsa-cia-secret-google-crisscross-proton) | `Intercept`

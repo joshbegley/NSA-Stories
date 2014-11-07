@@ -201,6 +201,7 @@ December 30, 2013 | [TAO Intro](http://www.spiegel.de/international/world/nsa-se
 December 30, 2013 | [QFIRE](http://cryptome.org/2013/12/nsa-catalog.zip) | `Jacob Appelbaum`
 December 30, 2013 | [NSA ANT Catalog](http://www.spiegel.de/politik/deutschland/nsa-fdp-politiker-baum-fuer-eingreifen-des-generalbundesanwalts-a-941418.html) | `Der Spiegel`
 December 30, 2013 | [TAO Quantum Theory](http://www.spiegel.de/netzwelt/netzpolitik/quantumtheory-wie-die-nsa-weltweit-rechner-hackt-a-941149.html) | `Der Spiegel`
+December 29, 2013 | [Inside TAO: Documents Reveal Top NSA Hacking Unit](http://www.spiegel.de/international/world/the-nsa-uses-powerful-toolbox-in-effort-to-spy-on-global-networks-a-940969.html) | `Der Spiegel`
 December 29, 2013 | [TAO ANT Cottonmouth](http://cryptome.org/2013/12/nsa-tao-ant-pdf.pdf) | `Der Spiegel`
 December 23, 2013 | [NSA/CSS Mission](http://www.washingtonpost.com/world/national%20-security/edward-snowden-after-months-of-nsa-revelations-says-his-missions-accomplished/2013/12/23/49fc36de-6c1c-11e3-a523-fe73f0ff6b8d_story.html) | `Washington Post`
 December 11, 2013 | [Xkeyscore Sources](http://www.svt.se/ug/read-the-snowden-documents-from-the-nsa) | `SVT`

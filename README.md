@@ -183,8 +183,8 @@ February 18, 2014 | [Discovery Sigint Targeting Scenarios and Compliance](https:
 February 15, 2014 | [SUSLOC Trade Document](http://www.nytimes.com/2014/02/16/us/document-describes-eavesdropping-on-american-law-firm.html) | `NY Times`
 February 11, 2014 | [Drones Intercepting Communications](https://firstlook.org/theintercept/article/2014/02/10/the-nsas-secret-role/) | `Intercept`
 February 8, 2014 | [Boundless Nederland](http://electrospaces.blogspot.com/2014/02/boundlessinformant-metadata-collection.html) | `NRC Handelsblad`
-February 7, 2014 | [GCHQ Honey Trap Cyber Attack_Background on JTRIG](http://www.nbcnews.com/news/investigations/snowden-docs-british-spies-used-sex-dirty-tricks-n23091) | `NBC`
-February 7, 2014 | [GCHQ Honey Trap Cyber Attack_Leveraging Foreign Journalists via JTRIG](http://www.nbcnews.com/news/investigations/snowden-docs-british-spies-used-sex-dirty-tricks-n23091) | `NBC`
+February 7, 2014 | [GCHQ Honey Trap Cyber Attack - Background on JTRIG](http://www.nbcnews.com/news/investigations/snowden-docs-british-spies-used-sex-dirty-tricks-n23091) | `NBC`
+February 7, 2014 | [GCHQ Honey Trap Cyber Attack - Leveraging Foreign Journalists via JTRIG](http://www.nbcnews.com/news/investigations/snowden-docs-british-spies-used-sex-dirty-tricks-n23091) | `NBC`
 February 4, 2014 | [British Spies Attacked Hactivist Anonymous](http://www.nbcnews.com/news/investigations/war-anonymous-british-spies-attacked-hackers-snowden-docs-show-n21361) | `NBC`
 January 31, 2014 | [CSEC Airport WiFi Tracking](http://www.cbc.ca/news/politics/csec-used-airport-wi-fi-to-track-canadian-travellers-edward-snowden-documents-1.2517881) | `CBC`
 January 30, 2014 | [COP15 Interception Document](http://www.information.dk/486360) | `Information DK`

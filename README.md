@@ -314,7 +314,7 @@ August 16, 2013 | [NSA Special Source Organization (SSO) news article from Octob
 August 16, 2013 | [NSA Targeting Analyst Rationale slides (undated)](http://www.washingtonpost.com/world/national-security/nsa-broke-privacy-rules-thousands-of-times-per-year-audit-finds/2013/08/15/3310e554-05ca-11e3-a07f-49ddc7417125_story.html) | `Washington Post`
 August 9, 2013 | [NSA Special Source Organization (SSO) glossary on Section 702](http://www.theguardian.com/world/2013/aug/09/nsa-loophole-warrantless-searches-email-calls) | `Guardian`
 July 31, 2013 | [NSA Xkeyscore Training Slides Feb 25, 2008](http://www.theguardian.com/world/2013/jul/31/nsa-top-secret-program-online-data) | `Guardian`
-July 10, 2013 | [PRISM slides ](http://www.washingtonpost.com/wp-srv/special/politics/prism-collection-documents/) | `Washington Post`
+July 10, 2013 | [PRISM slides (Updated) ](http://www.washingtonpost.com/wp-srv/special/politics/prism-collection-documents/) | `Washington Post`
 June 30, 2013 | [Dropmire](http://www.theguardian.com/world/2013/jun/30/nsa-leaks-us-bugging-european-allies) | `Guardian`
 June 29, 2013 | [PRISM slides ](http://www.washingtonpost.com/wp-srv/special/politics/prism-collection-documents/) | `Washington Post`
 June 27, 2013 | [NSA OIG Working Draft Report from March 24, 2009 on Stellar Wind (PSP)](http://www.theguardian.com/world/2013/jun/27/nsa-data-mining-authorised-obama) | `Guardian`

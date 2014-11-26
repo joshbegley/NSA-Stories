@@ -5,10 +5,10 @@ This repository, maintained in collaboration with Margot Williams, contains a si
 Date | Article/Document | Publication
 ---|---------|-------------
 November 20, 2014 | [Vodafone-Linked Company Aided British Mass Surveillance](https://firstlook.org/theintercept/2014/11/20/vodafone-surveillance-gchq-snowden/) | `Intercept`
-November 20, 2014 | [25.04.2013: Special Source Operations (SSO) Weekly Brief - Windstop System Highlights](https://netzpolitik.org/wp-upload/2014-11-Snowden-Gerontic/25_apr_2013_sso_weekly_brief.pdf) | `Suddeutsche Zeitung`
-November 20, 2014 | [27.06.2008: Mastering the Internet (MTI) Access Project - Weekly Status](https://netzpolitik.org/wp-upload/2014-11-Snowden-Gerontic/27_June_08_redacted.pdf) | `Suddeutsche Zeitung`
-November 20, 2014 | [28.11.2008: Mastering the Internet (MTI) Access Project - Weekly Status](https://netzpolitik.org/wp-upload/2014-11-Snowden-Gerontic/28_November_08_redacted.pdf) | `Suddeutsche Zeitung`
-November 20, 2014 | [06.02.2009: Mastering the Internet (MTI) Access Project - Weekly Status](https://netzpolitik.org/wp-upload/2014-11-Snowden-Gerontic/6_February_09_redacted.pdf) | `Suddeutsche Zeitung`
+November 20, 2014 | [Special Source Operations (SSO) Weekly Brief 25.04.2013 - Windstop System Highlights](https://netzpolitik.org/wp-upload/2014-11-Snowden-Gerontic/25_apr_2013_sso_weekly_brief.pdf) | `Suddeutsche Zeitung`
+November 20, 2014 | [Mastering the Internet (MTI) Access Project 27.06.2008 - Weekly Status](https://netzpolitik.org/wp-upload/2014-11-Snowden-Gerontic/27_June_08_redacted.pdf) | `Suddeutsche Zeitung`
+November 20, 2014 | [Mastering the Internet (MTI) Access Project 28.11.2008 - Weekly Status](https://netzpolitik.org/wp-upload/2014-11-Snowden-Gerontic/28_November_08_redacted.pdf) | `Suddeutsche Zeitung`
+November 20, 2014 | [Mastering the Internet (MTI) Access Project 06.02.2009 - Weekly Status](https://netzpolitik.org/wp-upload/2014-11-Snowden-Gerontic/6_February_09_redacted.pdf) | `Suddeutsche Zeitung`
 November 20, 2014 | [Computer Network Exploitation (CNE) EndPoint Project Load - Pfenning](https://netzpolitik.org/wp-upload/2014-11-Snowden-Gerontic/CNE_PFENNING_ALPHA_redacted.pdf) | `Suddeutsche Zeitung`
 November 20, 2014 | [Cable Master List: Flag EA](https://netzpolitik.org/wp-upload/2014-11-Snowden-Gerontic/FEA_cable_list.pdf) | `Suddeutsche Zeitung`
 November 20, 2014 | [PTC Glossary: INCENSER](https://netzpolitik.org/wp-upload/2014-11-Snowden-Gerontic/PTC_Glossary_redacted.pdf) | `Suddeutsche Zeitung`

@@ -4,6 +4,22 @@ This repository, maintained in collaboration with Margot Williams, contains a si
 
 Date | Article/Document | Publication
 ---|---------|-------------
+November 20, 2014 | [Vodafone-Linked Company Aided British Mass Surveillance](https://firstlook.org/theintercept/2014/11/20/vodafone-surveillance-gchq-snowden/) | `Intercept`
+November 20, 2014 | [25.04.2013: Special Source Operations (SSO) Weekly Brief - Windstop System Highlights](https://netzpolitik.org/wp-upload/2014-11-Snowden-Gerontic/25_apr_2013_sso_weekly_brief.pdf) | `Suddeutsche Zeitung`
+November 20, 2014 | [27.06.2008: Mastering the Internet (MTI) Access Project - Weekly Status](https://netzpolitik.org/wp-upload/2014-11-Snowden-Gerontic/27_June_08_redacted.pdf) | `Suddeutsche Zeitung`
+November 20, 2014 | [28.11.2008: Mastering the Internet (MTI) Access Project - Weekly Status](https://netzpolitik.org/wp-upload/2014-11-Snowden-Gerontic/28_November_08_redacted.pdf) | `Suddeutsche Zeitung`
+November 20, 2014 | [06.02.2009: Mastering the Internet (MTI) Access Project - Weekly Status](https://netzpolitik.org/wp-upload/2014-11-Snowden-Gerontic/6_February_09_redacted.pdf) | `Suddeutsche Zeitung`
+November 20, 2014 | [Computer Network Exploitation (CNE) EndPoint Project Load - Pfenning](https://netzpolitik.org/wp-upload/2014-11-Snowden-Gerontic/CNE_PFENNING_ALPHA_redacted.pdf) | `Suddeutsche Zeitung`
+November 20, 2014 | [Cable Master List: Flag EA](https://netzpolitik.org/wp-upload/2014-11-Snowden-Gerontic/FEA_cable_list.pdf) | `Suddeutsche Zeitung`
+November 20, 2014 | [PTC Glossary: INCENSER](https://netzpolitik.org/wp-upload/2014-11-Snowden-Gerontic/PTC_Glossary_redacted.pdf) | `Suddeutsche Zeitung`
+November 20, 2014 | [Access Breakdown](https://netzpolitik.org/wp-upload/2014-11-Snowden-Cable-Master-List/access_breakdown.pdf) | `Suddeutsche Zeitung`
+November 20, 2014 | [Cable Master List - Data](https://netzpolitik.org/wp-upload/2014-11-Snowden-Cable-Master-List/data.pdf) | `Suddeutsche Zeitung`
+November 20, 2014 | [Cables we do not currently have good access](https://netzpolitik.org/wp-upload/2014-11-Snowden-Cable-Master-List/no_current_access.pdf) | `Suddeutsche Zeitung`
+November 20, 2014 | [Partner Cables](https://netzpolitik.org/wp-upload/2014-11-Snowden-Cable-Master-List/partner_cables.pdf) | `Suddeutsche Zeitung`
+November 20, 2014 | [Regions](https://netzpolitik.org/wp-upload/2014-11-Snowden-Cable-Master-List/regions.pdf) | `Suddeutsche Zeitung`
+November 20, 2014 | [Where we are](https://netzpolitik.org/wp-upload/2014-11-Snowden-Cable-Master-List/WHERE_WE_ARE.pdf) | `Suddeutsche Zeitung`
+November 20, 2014 | [Where we want to be](https://netzpolitik.org/wp-upload/2014-11-Snowden-Cable-Master-List/WHERE_WE_WANT_TO_BE.pdf) | `Suddeutsche Zeitung`
+November 20, 2014 | [How Vodafone-Subsidiary Cable & Wireless Aided GCHQ's Spying Efforts](http://international.sueddeutsche.de/post/103543418200/snowden-leaks-how-vodafone-subsidiary-cable) | `Suddeutsche Zeitung`
 October 10, 2014 | [Core Secrets: NSA Saboteurs in China and Germany](https://firstlook.org/theintercept/2014/10/10/core-secrets/) | `Intercept`
 October 10, 2014 | [Sentry Eagle Brief Sheet](https://firstlook.org/theintercept/document/2014/10/10/national-initiative-protection-program-sentry-eagle/) | `Intercept`
 October 10, 2014 | [TAREX Classification Guide](https://firstlook.org/theintercept/document/2014/10/10/target-exploitation-classification-guide/) | `Intercept`

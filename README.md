@@ -4,6 +4,28 @@ This repository, maintained in collaboration with Margot Williams, contains a si
 
 Date | Article/Document | Publication
 ---|---------|-------------
+December 13, 2014 | [Operation Socialist: The Inside Story of How British Spies Hacked Belgium's Largest Telco](https://firstlook.org/theintercept/2014/12/13/belgacom-hack-gchq-inside-story/) | `Intercept`
+December 13, 2014 | [Automated NOC detection](https://firstlook.org/theintercept/document/2014/12/13/gchq-automated-noc-detection-2011) | `Intercept`
+December 13, 2014 | [Mobile Networks in My NOC World](https://firstlook.org/theintercept/document/2014/12/13/gchq-mobile-networks-noc-world) | `Intercept`
+December 13, 2014 | [Making network sense of the encryption problem](https://firstlook.org/theintercept/document/2014/12/13/gchq-making-network-sense-encryption-problem-2011) | `Intercept`
+December 13, 2014 | [Stargate CNE requirements](https://firstlook.org/theintercept/document/2014/12/13/gchq-stargate-cne-requirements) | `Intercept`
+December 13, 2014 | [NAC review – October to December 2011](https://firstlook.org/theintercept/document/2014/12/13/gchq-nac-review-october-december-2011) | `Intercept`
+December 13, 2014 | [GCHQ NAC review – January to March 2011](https://firstlook.org/theintercept/document/2014/12/13/gchq-nac-business-review-january-march-2011) | `Intercept`
+December 13, 2014 | [GCHQ NAC review – April to June 2011](https://firstlook.org/theintercept/document/2014/12/13/gchq-nac-review-april-june-2011) | `Intercept`
+December 13, 2014 | [GCHQ NAC review – July to September 2011](https://firstlook.org/theintercept/document/2014/12/13/gchq-nac-review-july-september-2011) | `Intercept`
+December 13, 2014 | [GCHQ NAC review – January to March 2012](https://firstlook.org/theintercept/document/2014/12/13/gchq-nac-review-january-march-2012) | `Intercept`
+December 13, 2014 | [GCHQ Hopscotch](https://firstlook.org/theintercept/document/2014/12/13/hopscotch) | `Intercept`
+December 13, 2014 | [Belgacom connections](https://firstlook.org/theintercept/document/2014/12/13/gchq-belgacom-connections) | `Intercept`
+December 4, 2014 | [AURORAGOLD – Project Overview](https://firstlook.org/theintercept/document/2014/12/04/auroragold-project-overview) | `Intercept`
+December 4, 2014 | [AURORAGOLD Working Group](https://firstlook.org/theintercept/document/2014/12/04/auroragold-working-group/) | `Intercept`
+December 4, 2014 | [IR.21 – A Technology Warning Mechanism](https://firstlook.org/theintercept/document/2014/12/04/ir-21-technology-warning-mechanism) | `Intercept`
+December 4, 2014 | [AURORAGOLD – Target Technology Trends Center support to WPMO](https://firstlook.org/theintercept/document/2014/12/04/auroragold-target-technology-trends-center-support-wpmo) | `Intercept`
+December 4, 2014 | [NSA First-Ever Collect of High-Interest 4G Cellular Signal](https://firstlook.org/theintercept/document/2014/12/04/first-ever-collect-high-interest-4g-cellular-signal) | `Intercept`
+December 4, 2014 | [AURORAGOLD Working Aid](https://firstlook.org/theintercept/document/2014/12/04/auroragold-working-aid) | `Intercept`
+December 4, 2014 | [WOLFRAMITE Encryption Attack](https://firstlook.org/theintercept/document/2014/12/04/wolframite-encryption-attack) | `Intercept`
+December 4, 2014 | [OPULENT PUP Encryption Attack](https://firstlook.org/theintercept/document/2014/12/04/opulent-pup-encryption-attack) | `Intercept`
+December 4, 2014 | [NSA/GCHQ/CSEC Network Tradecraft Advancement Team](https://firstlook.org/theintercept/document/2014/12/04/nsa-gchq-csec-network-tradecraft-advancement-team) | `Intercept`
+December 4, 2014 | [Operation AURORAGOLD: How the NSA Hacks Cellphone Networks Worldwide](https://firstlook.org/theintercept/2014/12/04/nsa-auroragold-hack-cellphones/) | `Intercept`
 November 20, 2014 | [Vodafone-Linked Company Aided British Mass Surveillance](https://firstlook.org/theintercept/2014/11/20/vodafone-surveillance-gchq-snowden/) | `Intercept`
 November 20, 2014 | [Special Source Operations (SSO) Weekly Brief 25.04.2013 - Windstop System Highlights](https://netzpolitik.org/wp-upload/2014-11-Snowden-Gerontic/25_apr_2013_sso_weekly_brief.pdf) | `Suddeutsche Zeitung`
 November 20, 2014 | [Mastering the Internet (MTI) Access Project 27.06.2008 - Weekly Status](https://netzpolitik.org/wp-upload/2014-11-Snowden-Gerontic/27_June_08_redacted.pdf) | `Suddeutsche Zeitung`

@@ -4,6 +4,57 @@ This repository, maintained in collaboration with Margot Williams, contains a si
 
 Date | Article/Document | Publication
 ---|---------|-------------
+December 28, 2014 | [Prying Eyes: Inside the NSA's War on Internet Security](http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html) | `Der Spiegel`
+December 28, 2014 | [NSA Documents: Attacks on VPN, SSL, TLS, SSH, Tor](http://www.spiegel.de/international/world/nsa-documents-attacks-on-vpn-ssl-tls-ssh-tor-a-1010525.html) | `Der Spiegel`
+December 28, 2014 | [Guide for Analysts on how to use the PRISM Skype Collection](http://www.spiegel.de/media/media-35530.pdf) | `Der Spiegel`
+December 28, 2014 | [GCHQ Briefing on the BULLRUN Program](http://www.spiegel.de/media/media-35531.pdf) | `Der Spiegel`
+December 28, 2014 | [GCHQ Presentation on the BULLRUN Programs Decryption Capabilities](http://www.spiegel.de/media/media-35532.pdf) | `Der Spiegel`
+December 28, 2014 | [NSA LONGHAUL program for end-to-end attack orchestration and key recovery service](http://www.spiegel.de/media/media-35533.pdf) | `Der Spiegel`
+December 28, 2014 | [BLUESNORT program on "Net Defense" from Encrypted Communications](http://www.spiegel.de/media/media-35534.pdf) | `Der Spiegel`
+December 28, 2014 | [Presentation from the SIGDEV Conference 2012 explaining which encryption protocols and techniques can be attacked and which not](http://www.spiegel.de/media/media-35535.pdf) | `Der Spiegel`
+December 28, 2014 | [NSA program SCARLETFEVER explaining how attacks on encrypted connections are orchestrated](http://www.spiegel.de/media/media-35536.pdf) | `Der Spiegel`
+December 28, 2014 | [Description of VOIP Telephony Encryption methods and cryptanalytic and other ways to attack](http://www.spiegel.de/media/media-35537.pdf) | `Der Spiegel`
+December 28, 2014 | [NSA Experiment for massive SSL/TLS Decryption](http://www.spiegel.de/media/media-35509.pdf) | `Der Spiegel`
+December 28, 2014 | [Canadian Document from CES on TLS Trends](http://www.spiegel.de/media/media-35510.pdf) | `Der Spiegel`
+December 28, 2014 | [Details on how NSA uses the SCARLETFEVER program to attack Scure Sockets Layer (SSL)/Transport Layer Scurity (TLS)](http://www.spiegel.de/media/media-35511.pdf) | `Der Spiegel`
+December 28, 2014 | [Analysis from SSL/TLS Connections through GCHQ in the flying pig database](http://www.spiegel.de/media/media-35512.pdf) | `Der Spiegel`
+December 28, 2014 | [NSA High Level Description on TURMOIL / APEX Programs on Attacking VPN](http://www.spiegel.de/media/media-35513.pdf) | `Der Spiegel`
+December 28, 2014 | [Explanation of the GALLANTWAVE that decrypts VPN Traffic within LONGHAUL](http://www.spiegel.de/media/media-35514.pdf) | `Der Spiegel`
+December 28, 2014 | [Intro to the VPN Exploitation Process mentioning the protocols attacked - PPTP, IPSEC, SSL, SSH)](http://www.spiegel.de/media/media-35515.pdf) | `Der Spiegel`
+December 28, 2014 | [Analytic Challenges from Active-Passive Integration when NSA attacks IPSEC VPNs](http://www.spiegel.de/media/media-35516.pdf) | `Der Spiegel`
+December 28, 2014 | [Overview of the capabilities of the VALIANTSURF program](http://www.spiegel.de/media/media-35517.pdf) | `Der Spiegel`
+December 28, 2014 | [MALIBU Architecture Overview to exploit VPN Communication](http://www.spiegel.de/media/media-35518.pdf) | `Der Spiegel`
+December 28, 2014 | [POISENNUT Virtual Private Network Attack Orchestrator (VAO)](http://www.spiegel.de/media/media-35519.pdf) | `Der Spiegel`
+December 28, 2014 | [NSA Presentation on the development of Attacks on VPN](http://www.spiegel.de/media/media-35520.pdf) | `Der Spiegel`
+December 28, 2014 | [NSA Presentation on the Analysis and Contextualisation of data from VPN](http://www.spiegel.de/media/media-35521.pdf) | `Der Spiegel`
+December 28, 2014 | [Description of existing projects on VPN decryption](http://www.spiegel.de/media/media-35522.pdf) | `Der Spiegel`
+December 28, 2014 | [Explanation of the Transform Engine Emulator when attacking VPN](http://www.spiegel.de/media/media-35523.pdf) | `Der Spiegel`
+December 28, 2014 | [Explanation of the POISENNUT Product and its role when attacking VPN](http://www.spiegel.de/media/media-35524.pdf) | `Der Spiegel`
+December 28, 2014 | [Explanation of the TURMOIL GALLANTWAVE Program and its role when attacking VPN](http://www.spiegel.de/media/media-35525.pdf) | `Der Spiegel`
+December 28, 2014 | [Processing of data from exploited VPN in the TURMOIL program](http://www.spiegel.de/media/media-35526.pdf) | `Der Spiegel`
+December 28, 2014 | [Decryption of VPN Connections within the VALIANTSURF program](http://www.spiegel.de/media/media-35527.pdf) | `Der Spiegel`
+December 28, 2014 | [Description on the processing of VPN data packets within the TURMOIL program](http://www.spiegel.de/media/media-35528.pdf) | `Der Spiegel`
+December 28, 2014 | [Explanation on the SPIN9 program on end-to-end attacks on VPN](http://www.spiegel.de/media/media-35529.pdf) | `Der Spiegel`
+December 28, 2014 | [Explanation of a potential technique to deanonymise users of the TOR network](http://www.spiegel.de/media/media-35538.pdf) | `Der Spiegel`
+December 28, 2014 | [Analytics on security of TOR hidden services](http://www.spiegel.de/media/media-35539.pdf) | `Der Spiegel`
+December 28, 2014 | [Overview on Internet Anonymization Services on how they work](http://www.spiegel.de/media/media-35540.pdf) | `Der Spiegel`
+December 28, 2014 | [TOR deanonymisation research](http://www.spiegel.de/media/media-35541.pdf) | `Der Spiegel`
+December 28, 2014 | [TOR Overview of Existing Techniques](http://www.spiegel.de/media/media-35542.pdf) | `Der Spiegel`
+December 28, 2014 | [A potential technique to deanonymise users of the TOR network](http://www.spiegel.de/media/media-35543.pdf) | `Der Spiegel`
+December 28, 2014 | [General Description how NSA handles encrypted traffic](http://www.spiegel.de/media/media-35544.pdf) | `Der Spiegel`
+December 28, 2014 | [Intercept with PGP encrypted message](http://www.spiegel.de/media/media-35545.pdf) | `Der Spiegel`
+December 28, 2014 | [Classification Guide for Cryptanalysis](http://www.spiegel.de/media/media-35546.pdf) | `Der Spiegel`
+December 28, 2014 | [Procedural GCHQ Document on how analysts are to handle encrypted traffic](http://www.spiegel.de/media/media-35547.pdf) | `Der Spiegel`
+December 28, 2014 | [NSA / GCHQ Crypt Discovery Joint Collaboration Activity](http://www.spiegel.de/media/media-35548.pdf) | `Der Spiegel`
+December 28, 2014 | [NSA Cryptographic Modernization (CryptoMod) Classification Guide](http://www.spiegel.de/media/media-35549.pdf) | `Der Spiegel`
+December 28, 2014 | [National Information Assurance Research Laboratory (NIARL): Newsletter, Keyword TUNDRA](http://www.spiegel.de/media/media-35550.pdf) | `Der Spiegel`
+December 28, 2014 | [What Your Mother Never Told You About the development of Signal Intelligence](http://www.spiegel.de/media/media-35551.pdf) | `Der Spiegel`
+December 28, 2014 | [Intercept with OTR encrypted chat](http://www.spiegel.de/media/media-35552.pdf) | `Der Spiegel`
+December 28, 2014 | [Obama's Lists: A Dubious History of Targeted Killings in Afghanistan](http://www.spiegel.de/international/world/secret-docs-reveal-dubious-details-of-targeted-killings-in-afghanistan-a-1010358.html) | `Der Spiegel`
+December 28, 2014 | [US Document from 2009: Including the Drug Trade in the War Against the Taliban](http://www.spiegel.de/media/media-35506.pdf) | `Der Spiegel`
+December 28, 2014 | [Report about Operation Doody: The Child of the Neighbor Shot By Accident](http://www.spiegel.de/media/media-35507.pdf) | `Der Spiegel`
+December 28, 2014 | [The JPEL List in Anonymized Form](http://www.spiegel.de/media/media-35508.pdf) | `Der Spiegel`
+December 28, 2014 | [Take-Down Operation; U.S. SIGINT Provides Key Support](http://www.spiegel.de/media/media-35553.pdf) | `Der Spiegel`
 December 13, 2014 | [Operation Socialist: The Inside Story of How British Spies Hacked Belgium's Largest Telco](https://firstlook.org/theintercept/2014/12/13/belgacom-hack-gchq-inside-story/) | `Intercept`
 December 13, 2014 | [Automated NOC detection](https://firstlook.org/theintercept/document/2014/12/13/gchq-automated-noc-detection-2011) | `Intercept`
 December 13, 2014 | [Mobile Networks in My NOC World](https://firstlook.org/theintercept/document/2014/12/13/gchq-mobile-networks-noc-world) | `Intercept`

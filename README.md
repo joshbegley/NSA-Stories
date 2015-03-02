@@ -4,6 +4,44 @@ This repository, maintained in collaboration with Margot Williams, contains a si
 
 Date | Article/Document | Publication
 ---|---------|-------------
+January 17, 2015 | [Part 2: How the NSA Reads Over Shoulders of Other Spies](http://www.spiegel.de/international/world/new-snowden-docs-indicate-scope-of-nsa-preparations-for-cyber-battle-a-1013409-2.html) | `Der Spiegel`
+January 17, 2015 | [Description of an NSA employee on fifth party access / When the targeted fourth party has someone under surveillance who puts others under surveillance](http://www.spiegel.de/media/media-35679.pdf) | `Der Spiegel`
+January 17, 2015 | [4th party collection / Taking advantage of non-partner computer network exploitation activity](http://www.spiegel.de/media/media-35680.pdf) | `Der Spiegel`
+January 17, 2015 | [Combination of offensive and defensive missions / How fourth-party missions are being performed](http://www.spiegel.de/media/media-35681.pdf) | `Der Spiegel`
+January 17, 2015 | [Overview of the TRANSGRESSION program to analyze and exploit foreign CNA/CNE exploits](http://www.spiegel.de/media/media-35682.pdf) | `Der Spiegel`
+January 17, 2015 | [NSA example SNOWGLOBE, in which a suspected French government trojan is analyzed to find out if it can be helpful for own interests](http://www.spiegel.de/media/media-35683.pdf) | `Der Spiegel`
+January 17, 2015 | [NSA fourth party access / "I drink your milkshake"](http://www.spiegel.de/media/media-35684.pdf) | `Der Spiegel`
+January 17, 2015 | [NSA Program TUTELAGE to instrumentalize third party attack tools](http://www.spiegel.de/media/media-35685.pdf) | `Der Spiegel`
+January 17, 2015 | [Codename BYZANTINE HADES / NSA research on the targets of Chinese network exploitation tools, the targets and actors](http://www.spiegel.de/media/media-35686.pdf) | `Der Spiegel`
+January 17, 2015 | [CSEC document on the handling of existing trojans when trojanizing computers](http://www.spiegel.de/media/media-35688.pdf) | `Der Spiegel`
+January 17, 2015 | [Analysis of Chinese methods and performed actions in the context of computer network exploitation](http://www.spiegel.de/media/media-35687.pdf) | `Der Spiegel`
+January 17, 2015 | [Overview on the NSA use of bots and the DEFIANTWARRIOR program](http://www.spiegel.de/media/media-35689.pdf) | `Der Spiegel`
+January 17, 2015 | [HIDDENSALAMANDER / Program for the recognition of botnet activity and options for takeover of clients and data](http://www.spiegel.de/media/media-35678.pdf) | `Der Spiegel`
+January 17, 2015 | [The Digital Arms Race: NSA Preps America for Future Battle](http://www.spiegel.de/international/world/new-snowden-docs-indicate-scope-of-nsa-preparations-for-cyber-battle-a-1013409.html) | `Der Spiegel`
+January 17, 2015 | [Excerpt from the secret NSA budget on computer network operations / Code word GENIE](http://www.spiegel.de/media/media-35660.pdf) | `Der Spiegel`
+January 17, 2015 | [Document about the expansion of the Remote Operations Center (ROC) on endpoint operations](http://www.spiegel.de/media/media-35653.pdf) | `Der Spiegel`
+January 17, 2015 | [Document explaining the role of the Remote Operations Center (ROC)](http://www.spiegel.de/media/media-35654.pdf) | `Der Spiegel`
+January 17, 2015 | [Interview with an employee of NSA's department for Tailored Access Operations about his field of work](http://www.spiegel.de/media/media-35655.pdf) | `Der Spiegel`
+January 17, 2015 | [Supply-chain interdiction / Stealthy techniques can crack some of SIGINT's hardest targets](http://www.spiegel.de/media/media-35669.pdf) | `Der Spiegel`
+January 17, 2015 | [Classification guide for computer network exploitation (CNE)](http://www.spiegel.de/media/media-35656.pdf) | `Der Spiegel`
+January 17, 2015 | [NSA training course material on computer network operations](http://www.spiegel.de/media/media-35657.pdf) | `Der Spiegel`
+January 17, 2015 | [Overview of methods for NSA integrated cyber operations](http://www.spiegel.de/media/media-35658.pdf) | `Der Spiegel`
+January 17, 2015 | [NSA project description to recognize and process data that comes from third party attacks on computers](http://www.spiegel.de/media/media-35659.pdf) | `Der Spiegel`
+January 17, 2015 | [Exploring and exploiting leaky mobile apps with BADASS](http://www.spiegel.de/media/media-35670.pdf) | `Der Spiegel`
+January 17, 2015 | [Overview of projects of the TAO/ATO department such as the remote destruction of network cards](http://www.spiegel.de/media/media-35661.pdf) | `Der Spiegel`
+January 17, 2015 | [iPhone target analysis and exploitation with Apple's unique device identifiers (UDID)](http://www.spiegel.de/media/media-35662.pdf) | `Der Spiegel`
+January 17, 2015 | [Report of an NSA Employee about a Backdoor in the OpenSSH Daemon](http://www.spiegel.de/media/media-35663.pdf) | `Der Spiegel`
+January 17, 2015 | [NSA document on QUANTUMSHOOTER, an implant to remote-control computers with good network connections from unknown third parties](http://www.spiegel.de/media/media-35664.pdf) | `Der Spiegel`
+January 17, 2015 | [CSEC document about the recognition of trojans and other "network based anomaly"](http://www.spiegel.de/media/media-35665.pdf) | `Der Spiegel`
+January 17, 2015 | [The formalized process through which analysts choose their data requirement and then get to know the tools that can do the job](http://www.spiegel.de/media/media-35666.pdf) | `Der Spiegel`
+January 17, 2015 | [QUANTUMTHEORY is a set of technologies allowing man-on-the-side interference attacks on TCP/IP connections (includes STRAIGHTBIZARRE and DAREDEVIL)](http://www.spiegel.de/media/media-35667.pdf) | `Der Spiegel`
+January 17, 2015 | [Sample code of a malware program from the Five Eyes alliance](http://www.spiegel.de/media/media-35668.pdf) | `Der Spiegel`
+January 17, 2015 | [Explanation of the APEX method of combining passive with active methods to exfiltrate data from networks attacked](http://www.spiegel.de/media/media-35671.pdf) | `Der Spiegel`
+January 17, 2015 | [Explanation of APEX shaping to put exfiltrating network traffic into patterns that allow plausible deniability](http://www.spiegel.de/media/media-35672.pdf) | `Der Spiegel`
+January 17, 2015 | [Presentation on the FASHIONCLEFT protocol that the NSA uses to exfiltrate data from trojans and implants to the NSA](http://www.spiegel.de/media/media-35673.pdf) | `Der Spiegel`
+January 17, 2015 | [Methods to exfiltrate data even from devices which are supposed to be offline](http://www.spiegel.de/media/media-35674.pdf) | `Der Spiegel`
+January 17, 2015 | [Document detailing SPINALTAP, an NSA project to combine data from active operations and passive signals intelligence](http://www.spiegel.de/media/media-35675.pdf) | `Der Spiegel`
+January 17, 2015 | [Technical description of the FASHIONCLEFT protocol the NSA uses to exfiltrate data from Trojans and implants to the NSA](http://www.spiegel.de/media/media-35676.pdf) | `Der Spiegel`
 December 28, 2014 | [Prying Eyes: Inside the NSA's War on Internet Security](http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html) | `Der Spiegel`
 December 28, 2014 | [NSA Documents: Attacks on VPN, SSL, TLS, SSH, Tor](http://www.spiegel.de/international/world/nsa-documents-attacks-on-vpn-ssl-tls-ssh-tor-a-1010525.html) | `Der Spiegel`
 December 28, 2014 | [Guide for Analysts on how to use the PRISM Skype Collection](http://www.spiegel.de/media/media-35530.pdf) | `Der Spiegel`

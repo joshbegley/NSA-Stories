@@ -4,6 +4,8 @@ This repository, maintained in collaboration with Margot Williams, contains a si
 
 Date | Article/Document | Publication
 ---|---------|-------------
+January 17, 2015 | [CSE tracks millions of downloads daily: Snowden documents](http://www.cbc.ca/news/canada/cse-tracks-millions-of-downloads-daily-snowden-documents-1.2930120) | `CBC`
+January 17, 2015 | [CSE presentation: Levitation](https://www.documentcloud.org/documents/1510163-cse-presentation-on-the-levitation-project.html) | `CBC`
 January 17, 2015 | [Part 2: How the NSA Reads Over Shoulders of Other Spies](http://www.spiegel.de/international/world/new-snowden-docs-indicate-scope-of-nsa-preparations-for-cyber-battle-a-1013409-2.html) | `Der Spiegel`
 January 17, 2015 | [Description of an NSA employee on fifth party access / When the targeted fourth party has someone under surveillance who puts others under surveillance](http://www.spiegel.de/media/media-35679.pdf) | `Der Spiegel`
 January 17, 2015 | [4th party collection / Taking advantage of non-partner computer network exploitation activity](http://www.spiegel.de/media/media-35680.pdf) | `Der Spiegel`

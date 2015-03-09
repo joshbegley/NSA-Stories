@@ -4,10 +4,10 @@ This repository, maintained in collaboration with Margot Williams, contains a si
 
 Date | Article/Document | Publication
 ---|---------|-------------
-March 7, 2015 | [Inside Waihopai's domes](http://www.stuff.co.nz/national/67082905/snowden-files-inside-waihopais-domes) | `Sunday Star-Times`
-March 7, 2015 | [GCSB update 2012](http://static.stuff.co.nz/files/GCSBMarch2012.pdf) | `Sunday Star-Times`
-March 7, 2015 | [GCSB update 2010](http://static.stuff.co.nz/files/GCSBApril2010.pdf) | `Sunday Star-Times`
-March 7, 2015 | [Second Party National Identity Rules](http://static.stuff.co.nz/files/NationalIDrules.pdf) | `Sunday Star-Times`
+March 7, 2015 | [Inside Waihopai's domes](http://www.stuff.co.nz/national/67082905/snowden-files-inside-waihopais-domes) | `Sunday Star Times`
+March 7, 2015 | [GCSB update 2012](http://static.stuff.co.nz/files/GCSBMarch2012.pdf) | `Sunday Star Times`
+March 7, 2015 | [GCSB update 2010](http://static.stuff.co.nz/files/GCSBApril2010.pdf) | `Sunday Star Times`
+March 7, 2015 | [Second Party National Identity Rules](http://static.stuff.co.nz/files/NationalIDrules.pdf) | `Sunday Star Times`
 February 26, 2015 | [CSE monitors millions of Canadian emails to government](http://www.cbc.ca/news/cse-monitors-millions-of-canadian-emails-to-government-1.2969687) | `CBC`
 February 26, 2015 | [CSEC ITS/N2E Cyber Threat Discovery](https://s3.amazonaws.com/s3.documentcloud.org/documents/1676153/csec-its-dsco-2010-20101026-final.pdf) | `CBC`
 February 26, 2015 | [CSE Cyber Network Defence R&D Activities](https://www.documentcloud.org/documents/1676540-5iiarc-conference-september-2010-csec-briefing.html) | `CBC`

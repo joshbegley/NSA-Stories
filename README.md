@@ -4,6 +4,17 @@ This repository, maintained in collaboration with Margot Williams, contains a si
 
 Date | Article/Document | Publication
 ---|---------|-------------
+March 10, 2015 | [iSpy: The CIA Campaign to Steal Apple's Secrets](https://firstlook.org/theintercept/2015/03/10/ispy-cia-campaign-steal-apples-secrets/) | `Intercept`
+March 10, 2015 | [Black Budget: Cryptanalysis and Exploitation Services – Analysis of Target Systems](https://firstlook.org/theintercept/document/2015/03/10/black-budget-cryptanalysis-exploitation-services-analysis-target-systems/) | `Intercept`
+March 10, 2015 | [TCB Jamboree 2012 Invitation](https://firstlook.org/theintercept/document/2015/03/10/tcb-jamboree-2012-invitation/) | `Intercept`
+March 10, 2015 | [Strawhorse: Attacking the MacOS and iOS Software Development Kit](https://firstlook.org/theintercept/document/2015/03/10/strawhorse-attacking-macos-ios-software-development-kit/) | `Intercept`
+March 10, 2015 | [TPM Vulnerabilities to Power Analysis and An Exposed Exploit to Bitlocker](https://firstlook.org/theintercept/document/2015/03/10/tpm-vulnerabilities-power-analysis-exposed-exploit-bitlocker/) | `Intercept`
+March 10, 2015 | [TCB Jamboree 2012](https://firstlook.org/theintercept/document/2015/03/10/tcb-jamboree-2012/) | `Intercept`
+March 10, 2015 | [Apple A4/A5 Application Processors Analysis](https://firstlook.org/theintercept/document/2015/03/10/apple-a4a5-application-processors-analysis/) | `Intercept`
+March 10, 2015 | [Differential Power Analysis on the Apple A4 Processor](https://firstlook.org/theintercept/document/2015/03/10/differential-power-analysis-apple-a4-processor/) | `Intercept`
+March 10, 2015 | [Secure Key Extraction by Physical De-Processing of Apple's A4 Processor](https://firstlook.org/theintercept/document/2015/03/10/secure-key-extraction-physical-de-processing-apples-a4-processor/) | `Intercept`
+March 10, 2015 | [Rocoto: Implanting the iPhone](https://firstlook.org/theintercept/document/2015/03/10/rocoto-implanting-iphone/) | `Intercept`
+March 10, 2015 | [Smurf Capability – iPhone](https://firstlook.org/theintercept/document/2015/03/10/smurf-capability-iphone/) | `Intercept`
 March 7, 2015 | [Inside Waihopai's domes](http://www.stuff.co.nz/national/67082905/snowden-files-inside-waihopais-domes) | `Sunday Star Times`
 March 7, 2015 | [GCSB update 2012](http://static.stuff.co.nz/files/GCSBMarch2012.pdf) | `Sunday Star Times`
 March 7, 2015 | [GCSB update 2010](http://static.stuff.co.nz/files/GCSBApril2010.pdf) | `Sunday Star Times`

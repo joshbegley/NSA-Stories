@@ -4,6 +4,24 @@ This repository, maintained in collaboration with Margot Williams, contains a si
 
 Date | Article/Document | Publication
 ---|---------|-------------
+April 2, 2015 | [Britain Used Spy Team to Shape Latin American Public Opinion on Falklands](https://firstlook.org/theintercept/2015/04/02/gchq-argentina-falklands/) | `Intercept`
+April 2, 2015 | [NSA Extended Enterprise Report – July 2008](https://firstlook.org/theintercept/document/2015/04/02/nsa-extended-enterprise/) | `Intercept`
+April 2, 2015 | [Behavioural Science Support for JTRIG](https://firstlook.org/theintercept/document/2015/04/02/behavioural/) | `Intercept`
+April 2, 2015 | [Op QUITO – JTRIG Wiki Highlights – August 2009](https://firstlook.org/theintercept/document/2015/04/02/jtrig-wiki-highlights-august-2009/) | `Intercept`
+April 2, 2015 | [GCHQ Mission Driven Access Workshop](https://firstlook.org/theintercept/document/2015/04/02/gchq-mission-driven-access-workshop/) | `Intercept`
+April 2, 2015 | [NAC 2Q 2011 Business Review](https://firstlook.org/theintercept/document/2015/04/02/nac-2q-2011-business-review/) | `Intercept`
+April 2, 2015 | [Comet News – March 2010](https://firstlook.org/theintercept/document/2015/04/02/comet-news-march-2010/) | `Intercept`
+March 23, 2015 | [Communication Security Establishment's cyberwarfare toolbox revealed](http://www.cbc.ca/news/canada/communication-security-establishment-s-cyberwarfare-toolbox-revealed-1.3002978) | `CBC`
+March 23, 2015 | [CASCADE: Joint Cyber Sensor Architecture](https://s3.amazonaws.com/s3.documentcloud.org/documents/1690204/cascade-2011.pdf) | `CBC`
+March 23, 2015 | [NSA memo on intelligence relationship with CSE](http://s3.documentcloud.org/documents/1691676/odni3april2013-canada-v1-0.pdf) | `CBC`
+March 23, 2015 | [CSEC Cyber Threat Capabilities](http://www.documentcloud.org/documents/1690224/doc-6-cyber-threat-capabilities.pdf) | `CBC`
+March 23, 2015 | [Cyber Threat Detection](http://www.documentcloud.org/documents/1690222/doc-5-cyber-csec-sdf-gchq-nov2009.pdf) | `CBC`
+March 23, 2015 | [CSEC SIGINT Cyber Discovery ](http://www.documentcloud.org/documents/1690221/doc-4-csec-sigint-discocon-2010.pdf) | `CBC`
+March 23, 2015 | [CSE response to CBC's questions](http://s3.documentcloud.org/documents/1690243/csestatements.pdf) | `CBC`
+March 11, 2015 | [NZ's spy reach stretches across globe](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11415172) | `NZ Herald`
+March 11, 2015 | [NSA Intelligence Relationship with New Zealand](https://s3.amazonaws.com/s3.documentcloud.org/documents/1683920/nzodnipaperapr13-v1-0-pdf-redacted.pdf) | `NZ Herald`
+March 11, 2015 | [SIGINT Development Forum Minutes - June 2009](https://s3.amazonaws.com/s3.documentcloud.org/documents/1683921/sdf-mins-09-redacted.pdf) | `NZ Herald`
+March 11, 2015 | [SUSLOW Monthly Report for March 2013](https://s3.amazonaws.com/s3.documentcloud.org/documents/1684763/suslow-march-2013.pdf) | `NZ Herald`
 March 10, 2015 | [iSpy: The CIA Campaign to Steal Apple's Secrets](https://firstlook.org/theintercept/2015/03/10/ispy-cia-campaign-steal-apples-secrets/) | `Intercept`
 March 10, 2015 | [Black Budget: Cryptanalysis and Exploitation Services – Analysis of Target Systems](https://firstlook.org/theintercept/document/2015/03/10/black-budget-cryptanalysis-exploitation-services-analysis-target-systems/) | `Intercept`
 March 10, 2015 | [TCB Jamboree 2012 Invitation](https://firstlook.org/theintercept/document/2015/03/10/tcb-jamboree-2012-invitation/) | `Intercept`
